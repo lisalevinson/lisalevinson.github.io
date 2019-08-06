@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Lisa Levinson"
+title                    : "Lisa Levinson"
 title_separator          : "-"
-name                     : &name "Dr. Lisa Levinson"
+name                     : &name "Lisa Levinson"
 description              : &description "personal description"
 url                      : https://lisalevinson.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Lisa Levinson"
+  name             : "Lisa Levinson"
   avatar           : "levinson-headshot.jpg"
   bio              : "Lecturer in Linguistics"
-  location         : "Ann Arbor, MI"
-  employer         : "University of Michigan Linguistics"
+  location         : "Linguistics Department"
+  employer         : "University of Michigan"
   googlescholar    : "https://scholar.google.com/citations?user=i-BXxZsAAAAJ&hl=en&oi=ao"
   email            : "lisalev@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
