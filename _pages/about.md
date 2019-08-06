@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Lisa Levinson, University of Michigan Linguistics"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from:
