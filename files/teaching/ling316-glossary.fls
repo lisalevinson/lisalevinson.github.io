@@ -1,0 +1,153 @@
+PWD C:\Users\lisalev\Documents\GitHub\lisalevinson.github.io\files\teaching
+INPUT C:\Users\lisalev\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT ling316-glossary.tex
+OUTPUT ling316-glossary.log
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypic.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypic.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xy.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xy.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xy.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyrecat.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyidioms.tex
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\xypic\xydash10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\xypic\xyatip10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\xypic\xybtip10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\xypic\xybsql10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\xypic\xycirc10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyv2.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyv2.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyframe.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyframe.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-fr.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xycurve.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xycurve.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-cu.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xymatrix.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xymatrix.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyarrow.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyarrow.tex
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\stmaryrd\stmaryrd.sty
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\stmaryrd\stmaryrd.sty
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\qtree\qtree.sty
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\qtree\qtree.sty
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\pict2e\pict2e.sty
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\pict2e\pict2e.sty
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\pict2e\pict2e.cfg
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\pict2e\pict2e.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\pict2e\p2e-pdftex.def
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\pict2e\p2e-pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\linguex\linguex.sty
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\linguex\linguex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\gb4e\cgloss4e.sty
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\gb4e\cgloss4e.sty
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\gb4e\gb4e.sty
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\gb4e\gb4e.sty
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\gb4e\cgloss4e.sty
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\gb4e\cgloss4e.sty
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT ling316-glossary.aux
+INPUT ling316-glossary.aux
+OUTPUT ling316-glossary.aux
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\stmaryrd\ustmry.fd
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\latex\stmaryrd\ustmry.fd
+INPUT C:\Users\lisalev\AppData\Local\MiKTeX\2.9\fonts\tfm\public\stmaryrd\stmary10.tfm
+INPUT C:\Users\lisalev\AppData\Local\MiKTeX\2.9\fonts\tfm\public\stmaryrd\stmary8.tfm
+INPUT C:\Users\lisalev\AppData\Local\MiKTeX\2.9\fonts\tfm\public\stmaryrd\stmary6.tfm
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\lisalev\AppData\Roaming\MiKTeX\2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8t.tfm
+INPUT ling316-glossary.bbl
+INPUT ling316-glossary.bbl
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8t.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8t.tfm
+OUTPUT ling316-glossary.pdf
+INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\lisalev\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmb8t.vf
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmb8t.vf
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmri8t.vf
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT ling316-glossary.aux
+INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\base\8r.enc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\urw\times\utmb8a.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\urw\times\utmb8a.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\urw\times\utmri8a.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\urw\times\utmri8a.pfb
