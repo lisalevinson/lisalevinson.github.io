@@ -1,23 +1,7 @@
-\begin{thebibliography}{3}
+\begin{thebibliography}{0}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
-
-\bibitem[{Fillmore(1970)}]{fillmore1970}
-Fillmore, Charles~J. 1970.
-\newblock The {{Grammar}} of {{Hitting}} and {{Breaking}}.
-\newblock In {\em Readings in {{English Transformational Grammar}}\/}, ed.
-  Roderick~A. Jacobs and Peter~S. Rosenbaum, 120--133. {Ginn and Co}.
-
-\bibitem[{Harley(2009)}]{harley2009}
-Harley, Heidi. 2009.
-\newblock Roots and {{Locality}}.
-\newblock June 2009.
-
-\bibitem[{Harley(2014)}]{harley2014}
-Harley, Heidi. 2014.
-\newblock On the identity of roots.
-\newblock {\em Theoretical Linguistics\/} 40:225--276.
 
 \end{thebibliography}
