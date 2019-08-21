@@ -124,9 +124,12 @@ INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8t.tfm
-INPUT ling316-glossary.bbl
-INPUT ling316-glossary.bbl
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8t.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd
+INPUT ling316-glossary.bbl
+INPUT ling316-glossary.bbl
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8t.tfm
 OUTPUT ling316-glossary.pdf
 INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmr8t.vf
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
@@ -137,9 +140,15 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmr8t.vf
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmb8t.vf
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmri8t.vf
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT ling316-glossary.aux
 INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\base\8r.enc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\urw\times\utmr8a.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\urw\times\utmri8a.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\urw\times\utmri8a.pfb
