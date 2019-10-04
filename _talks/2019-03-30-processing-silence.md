@@ -8,8 +8,6 @@ date: 2019-03-30
 location: "New York, NY"
 ---
 
-Talk notes coming.
+<https://wp.nyu.edu/richiefest/>
 
-[https://wp.nyu.edu/richiefest/]
-
-[https://drive.google.com/file/d/1Lnhl7XcHYsaM57A_wVIkbp24ok7EioO1/view]
+<https://drive.google.com/file/d/1Lnhl7XcHYsaM57A_wVIkbp24ok7EioO1/view>

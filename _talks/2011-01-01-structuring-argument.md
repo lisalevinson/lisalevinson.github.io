@@ -8,8 +8,6 @@ date: 2011-09-06
 location: "Paris, France"
 ---
 
-Talk notes coming.
+<https://argstruc.wordpress.com/program/>
 
-https://argstruc.wordpress.com/program/
-
-https://argstruc.files.wordpress.com/2011/07/strucarg2011_submission_32.pdf
+<https://argstruc.files.wordpress.com/2011/07/strucarg2011_submission_32.pdf>
