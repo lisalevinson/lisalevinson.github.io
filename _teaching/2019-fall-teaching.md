@@ -8,5 +8,5 @@ date: 2019-09-03
 location: "Ann Arbor, MI"
 ---
 
--Talking Minds (PSYCH 349 / LING 347)
--Aspects of Meaning (LING 316)
+*Talking Minds (PSYCH 349 / LING 347)
+*Aspects of Meaning (LING 316)
