@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-Page update in progress - check back soon!
+Click through for full abstracts, PDFs, and other related materials.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
