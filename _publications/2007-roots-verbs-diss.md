@@ -1,14 +1,40 @@
 ---
-title: "Semantic Domains for Syntactic Word Building"
+title: "The Roots of Verbs"
 collection: publications
-permalink: /publication/2019-semantic-domains
-excerpt: 'Event structure often appears to co-vary with verbal morphology and VP syntax. Thus theories of event structure interact with theories of the organization of the grammar. Some theories have posited that syntactic heads associated with the introduction of events are responsible for ‘closing off’ a domain of idiomatic interpretation, both below and above the word level. The traditional boundary between ‘idiosyncratic’ words and ‘generated’ sentences breaks down when one considers idiosyncrasy at the phrasal level such as idioms, on the one hand, and structure and compositional meaning within words, such as derivational morphology, on the other. This chapter introduces several current approaches to syntactic word-building, and then reviews different proposals for the semantic interpretation of syntactically-composed words. This background will be used to explore the different domains that have been put forth as delimiting the site for special interpretations, within which it is predicted we will find Apparent Compositionality Exceptions (ACEs).'
-date: 2019-01-01
-venue: 'The Handbook of Event Structure'
-citation: 'Levinson, Lisa. (2019). Semantic Domains for Syntactic Word Building. In <i>The Oxford Handbook of Event Structure</i>, ed. by Robert Truswell, 265-286. Oxford: Oxford University Press.'
+permalink: /publication/2007-roots-verbs-diss
+excerpt: 'Theories of lexical semantics and syntactic decomposition usually make a distinction between
+the role of the ‘idiosyncratic’ lexical component of words, the ‘constant’ or ‘root’,
+and that of the functional elements which are shared between different members of a word
+class. Understanding the properties of such lexical building blocks is central to our understanding
+of language. However, most work thus far has focused on the functional building
+blocks. In particular, there has been little work addressing the formal semantics of lexical
+roots. In this dissertation, I focus on a particular class of verbs, implicit creation verbs,
+and argue that these are derived from roots which denote predicates of individuals. These
+verbs are contrasted with verbs derived from roots of different types, toward the goal of
+developing a complete ontology of roots. I argue that many of the generalizations derived
+in other work from syntactic categories can in fact be derived from semantic root type.
+The analysis presented for the compositional construction of verbs has consequences for
+the nature of lexical decomposition, the analysis of resultative secondary predicates, the
+analysis of verb particles, and the relationship between syntactic and semantic categories.'
+date: 2007-08-01
+venue: 'NYU Dissertations'
+citation: 'Levinson, Lisa. (2007). <i>The Roots of Verbs</i>. NYU Dissertation.'
 ---
-Event structure often appears to co-vary with verbal morphology and VP syntax. Thus theories of event structure interact with theories of the organization of the grammar. Some theories have posited that syntactic heads associated with the introduction of events are responsible for ‘closing off’ a domain of idiomatic interpretation, both below and above the word level. The traditional boundary between ‘idiosyncratic’ words and ‘generated’ sentences breaks down when one considers idiosyncrasy at the phrasal level such as idioms, on the one hand, and structure and compositional meaning within words, such as derivational morphology, on the other. This chapter introduces several current approaches to syntactic word-building, and then reviews different proposals for the semantic interpretation of syntactically-composed words. This background will be used to explore the different domains that have been put forth as delimiting the site for special interpretations, within which it is predicted we will find Apparent Compositionality Exceptions (ACEs).
+Theories of lexical semantics and syntactic decomposition usually make a distinction between
+the role of the ‘idiosyncratic’ lexical component of words, the ‘constant’ or ‘root’,
+and that of the functional elements which are shared between different members of a word
+class. Understanding the properties of such lexical building blocks is central to our understanding
+of language. However, most work thus far has focused on the functional building
+blocks. In particular, there has been little work addressing the formal semantics of lexical
+roots. In this dissertation, I focus on a particular class of verbs, implicit creation verbs,
+and argue that these are derived from roots which denote predicates of individuals. These
+verbs are contrasted with verbs derived from roots of different types, toward the goal of
+developing a complete ontology of roots. I argue that many of the generalizations derived
+in other work from syntactic categories can in fact be derived from semantic root type.
+The analysis presented for the compositional construction of verbs has consequences for
+the nature of lexical decomposition, the analysis of resultative secondary predicates, the
+analysis of verb particles, and the relationship between syntactic and semantic categories.
 
-[Oxford Online link](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199685318.001.0001/oxfordhb-9780199685318-e-31)
+[PDF](http://academicpages.github.io/files/levinson-2007-the-roots-of-verbs-dissertation.pdf)
 
-Recommended citation: Levinson, Lisa. (2019). Semantic Domains for Syntactic Word Building. In <i>The Oxford Handbook of Event Structure</i>, ed. by Robert Truswell, 265-286. Oxford: Oxford University Press.
+Recommended citation: Levinson, Lisa. (2007). <i>The Roots of Verbs</i>. NYU Dissertation..
