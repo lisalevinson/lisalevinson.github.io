@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-CV update in progress - check back soon!
+[Click here for my CV in PDF](/files/levinson-curriculum-vitae-2020.pdf)
