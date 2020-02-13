@@ -1,0 +1,14 @@
+---
+title: "Semantic Domains for Syntactic Word Building"
+collection: publications
+permalink: /publication/2019-semantic-domains
+excerpt: 'Event structure often appears to co-vary with verbal morphology and VP syntax. Thus theories of event structure interact with theories of the organization of the grammar. Some theories have posited that syntactic heads associated with the introduction of events are responsible for ‘closing off’ a domain of idiomatic interpretation, both below and above the word level. The traditional boundary between ‘idiosyncratic’ words and ‘generated’ sentences breaks down when one considers idiosyncrasy at the phrasal level such as idioms, on the one hand, and structure and compositional meaning within words, such as derivational morphology, on the other. This chapter introduces several current approaches to syntactic word-building, and then reviews different proposals for the semantic interpretation of syntactically-composed words. This background will be used to explore the different domains that have been put forth as delimiting the site for special interpretations, within which it is predicted we will find Apparent Compositionality Exceptions (ACEs).'
+date: 2019-01-01
+venue: 'The Handbook of Event Structure'
+citation: 'Levinson, Lisa. (2019). Semantic Domains for Syntactic Word Building. In <i>The Oxford Handbook of Event Structure</i>, ed. by Robert Truswell, 265-286. Oxford: Oxford University Press.'
+---
+Event structure often appears to co-vary with verbal morphology and VP syntax. Thus theories of event structure interact with theories of the organization of the grammar. Some theories have posited that syntactic heads associated with the introduction of events are responsible for ‘closing off’ a domain of idiomatic interpretation, both below and above the word level. The traditional boundary between ‘idiosyncratic’ words and ‘generated’ sentences breaks down when one considers idiosyncrasy at the phrasal level such as idioms, on the one hand, and structure and compositional meaning within words, such as derivational morphology, on the other. This chapter introduces several current approaches to syntactic word-building, and then reviews different proposals for the semantic interpretation of syntactically-composed words. This background will be used to explore the different domains that have been put forth as delimiting the site for special interpretations, within which it is predicted we will find Apparent Compositionality Exceptions (ACEs).
+
+[Oxford Online link](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199685318.001.0001/oxfordhb-9780199685318-e-31)
+
+Recommended citation: Levinson, Lisa. (2019). Semantic Domains for Syntactic Word Building. In <i>The Oxford Handbook of Event Structure</i>, ed. by Robert Truswell, 265-286. Oxford: Oxford University Press.
