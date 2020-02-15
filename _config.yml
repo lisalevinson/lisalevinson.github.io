@@ -215,10 +215,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _papers
+  # _publications
   - scope:
       path: ""
-      type: papers
+      type: publications
     values:
       layout: single
       author_profile: true
